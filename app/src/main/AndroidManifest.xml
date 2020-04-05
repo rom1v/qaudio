@@ -20,6 +20,7 @@
             android:name="com.rom1v.qaudio.RecordService"
             android:enabled="true"
             android:exported="false"
+            tools:targetApi="q"
             android:foregroundServiceType="mediaProjection" />
     </application>
 
